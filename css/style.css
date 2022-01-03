@@ -2,7 +2,7 @@ td:hover{
     background-color: tomato;
     font-size: 20px;
 }
-table,tr,td{
+table,tr,th{
     border: 2px solid black;
 
 }
